@@ -1,5 +1,6 @@
 # Python Daily
- This Repository is created for Python Daily Practice <br/>
+## This Repository is created for Python Practice <br/>
 
-Day 01: Python DataTypes <br/>
-Day 02:
+01: DataTypes <br/>
+02: SequenceTypes <br/>
+03: 
